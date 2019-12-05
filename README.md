@@ -6,4 +6,4 @@
 
 
 截图:
-![image](https://github.com/liujiaang/calnedar/edit/master/img/view.png)
+![image](https://github.com/liujiaang/calendar/edit/master/img/view.png)
