@@ -39,7 +39,7 @@
 </template>
 
 <script>
-  import calendarHeader from './canlendarHead.vue';
+  import calendarHeader from './calendarHead.vue';
   import * as utils from './common/utils.js';
   import calendar from './common/calendar.js';
   export default {
