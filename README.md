@@ -2,8 +2,11 @@
 
 
 
-引用时需要安装less less-loader依赖
+# 安装依赖
+npm install
 
+# 开启本地服务器
+npm run dev
 
 截图:
 ![image](https://github.com/liujiaang/calendar/edit/master/img/view.png)
